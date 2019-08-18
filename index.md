@@ -1,15 +1,15 @@
 ---
-title: About Alembic
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## Jassimran Kaur
+  MS (Computer Science)  @ Georgia Institute of Technology
+  Software Engineer @ IBM Research
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Strong engineering professional with a Master’s Degree focused on Computer Science from Georgia Institute of Technology. Experienced Machine Learning Engineer with a demonstrated history of working in the Identity & Access Management (IAM), software deployments and services industry. Skilled in Machine Learning, Deep Learning, Python, Java, and MEAN Stack"
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
+Strong engineering professional with a Master’s Degree focused on Computer Science from Georgia Institute of Technology. Experienced Machine Learning Engineer with a demonstrated history of working in the Identity & Access Management (IAM), software deployments and services industry. Skilled in Machine Learning, Deep Learning, Python, Java, and MEAN Stack
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
+{% include button.html text="Fork it" icon="github" link="https://github.com/jassimran" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/jassimran/" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
 
 ## Features
 
