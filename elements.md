@@ -1,9 +1,9 @@
 ---
-title: Elements
+title: Work Experience
 feature_text: |
-  A demo of Markdown and HTML includes
+  Over 5 years of experince professionally 
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: "Over 5 years of experince professionally"
 aside: true
 ---
 
@@ -11,13 +11,47 @@ aside: true
 
 ## Heading 2
 
-### Heading 3
+### IBM Research 
+<small>July 2018 - present</small>
+<small>Bengaluru, Karnataka,India</small>
 
-#### Heading 4
+###### Software Engineer: 
 
-##### Heading 5
+### Girls Who Code   
+<small>May 2016 - July 2016</small>
+<small>Atlanta, Georgia, USA</small>
 
-###### Heading 6
+###### Teacher
+*	Lead instruction for 20 high school girls for Summer Immersion program at Accenture Atlanta as per Girls Who Code computer science curriculum
+*	Prepared and delivered effective lessons plans aligned with curricular goals
+	Manage and assess students’ progress in and proficiency of hard and soft computer science skills
+	Manage 2 Teaching Assistants (TAs) to serve as support in classroom management, lesson delivery, logistical tasks, equipment managers, etc
+	Act as a liaison and host to executive level guests in the classroom and on field trips, thereby supporting the growth and development of Girls Who Code relationships with important partners
+	Effectively address students’ challenges and questions, so as to ensure that all students are engaged and actively learning course material
+	Work with GWC program staff to guide the delivery and flow of talks, activities, and field trips to ensure maximum understanding and intake of material for students
+	Counsel students on professional and personal levels, as needed or requested, with maturity and appropriate discretion
+	Effectively maintain an exciting, engaging and accessible classroom environment for a highly diverse group of young participants
+	Act as on-site representative of Girls Who Code managing various programmatic and logistical details
+	Administer program evaluations throughout the program’s duration to assess students’ understanding of computer science concepts
+	Communicate regularly with Girls Who Code regional program staff as well as the Curriculum Director and Communications Director as appropriate 
+
+### Alert Enterprise  
+<small>March 2011 - May 2013</small>
+<small>Chandigarh, India</small>
+
+###### Specialist Developer
+
+###### Customer Support Engineer
+
+### Infosys   
+<small>July 2009 - Feb 2011</small>
+<small>Chandigarh, India</small>
+
+###### Systems Engineer
+
+
+
+
 
 <small>A small element</small>
 
