@@ -1,114 +1,92 @@
 ---
 title: Work Experience
 feature_text: |
-  Over 5 years of experince professionally 
+  Over 5 years of professional experince building enterprise solutions. 
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "Over 5 years of experince professionally"
+excerpt: "Over 5 years of professional experince building enterprise solutions"
 aside: true
 ---
 
-# Heading 1
-
-## Heading 2
+## Work Experience
 
 ### IBM Research 
 <small>July 2018 - present</small>
-<small>Bengaluru, Karnataka,India</small>
+<small>Bengaluru, Karnataka, India</small>
+**Project VerifAI:**
+* Designed and developed a framework for testing Machine/Deep Learning (ML/DL) Models against metrics like accuracy, model bias, adversarial robustness, sensitivity, and explainability prior to pushing the model into production. 
+* It currently tests any model trained using text data, image data, audio data, structured data, watson conversations, and time series data. 
+* Lead client engagements and POCs for VerifAI and work with business development team to take this framework to new clients.
+*(Tools:  Java, Spring Boot, NLTK, scikit-learn, Python, Flask, Swagger, MongoDB, Watson Machine Learning)*
 
-###### Software Engineer: 
+**Data Augmentation for NLP Applications:** 
+* Working on novel measurment based, naturally occuring conditional data augmentation strategies to improve data volume and variety for better learning of DL models during training time with objective for making data ready for AI. Augmentation strategies are not limited to typos, paraphrase, noise, voice variations, adjective variations, tense variation, sentence complexity, sentiment intensification, verbosity, negation, and  etc. Disclosure under filing process
+*(Tools:  Python, Keras, Tensorflow, Watson Assistant, IBM Cloud, Swagger, NLTK, Stanford Core NLP, Spacy)*
+
+**Creative Generation of Fashion Images:**
+* Intelligent augmentation using external common-sense knowledge to generate new fashion images instead of random transforms for data enrichment. Used various GAN formulations and implemented state-of-art GAN models. Disclosure under IBM internal filing process
+*(Tools:  Python, scikit-learn, PyTorch, OpenCV)*
 
 ### Girls Who Code   
 <small>May 2016 - July 2016</small>
 <small>Atlanta, Georgia, USA</small>
 
-###### Teacher
-*	Lead instruction for 20 high school girls for Summer Immersion program at Accenture Atlanta as per Girls Who Code computer science curriculum
-*	Prepared and delivered effective lessons plans aligned with curricular goals
-	Manage and assess students’ progress in and proficiency of hard and soft computer science skills
-	Manage 2 Teaching Assistants (TAs) to serve as support in classroom management, lesson delivery, logistical tasks, equipment managers, etc
-	Act as a liaison and host to executive level guests in the classroom and on field trips, thereby supporting the growth and development of Girls Who Code relationships with important partners
-	Effectively address students’ challenges and questions, so as to ensure that all students are engaged and actively learning course material
-	Work with GWC program staff to guide the delivery and flow of talks, activities, and field trips to ensure maximum understanding and intake of material for students
-	Counsel students on professional and personal levels, as needed or requested, with maturity and appropriate discretion
-	Effectively maintain an exciting, engaging and accessible classroom environment for a highly diverse group of young participants
-	Act as on-site representative of Girls Who Code managing various programmatic and logistical details
-	Administer program evaluations throughout the program’s duration to assess students’ understanding of computer science concepts
-	Communicate regularly with Girls Who Code regional program staff as well as the Curriculum Director and Communications Director as appropriate 
+**Role - Teacher:**
+*	Lead instruction for 20 high school girls for Summer Immersion program 2016 at Accenture, Atlanta and taught students Scratch, Python, pygame & turtle libraries, HTML, CSS, Javascript, bootstrap, Algorithms and Robotics using Arduino.
+*	Prepared and delivered effective lessons plans aligned with curricular goals while maintaining an exciting, engaging and accessible classroom environment for a highly diverse group of young participants
+*	Manage 2 Teaching Assistants (TAs) to serve as support in classroom management, lesson delivery, logistical tasks, equipment managers, etc
+*	Act as a liaison and host to executive level guests in the classroom and on field trips, thereby supporting the growth and development of Girls Who Code relationships with important partners
+*	Work with GWC program staff to guide the delivery and flow of talks, activities, and field trips to ensure maximum understanding and intake of material for students
+*	Counsel students on professional and personal levels, as needed or requested, with maturity and appropriate discretion
 
 ### Alert Enterprise  
 <small>March 2011 - May 2013</small>
 <small>Chandigarh, India</small>
+**Specialist Developer:**
+Prototyping, developing, testing and supporting new features and functions with focus on enabling and implementing unique client-side behaviors into Enterprise Sentry solution which leverages unique Security Convergence capabilities that combine cyber security and physical security for enterprises. The solution links IT Security with Physical Access Controls, Badging Systems, Video Surveillance – CCTV and other Sensor Systems to provide real time incident management.   
+* Developed modules for generating Risk score for employees/vendore for minimizing insider threats. Airports and various utility companies secure their Identity and Access Managemnt solution with this module as a top level business layer.
+* Designed and developed various java APIs for populating data in monthly/quarterly threat reports and customer dashboards for audits.
+* Developed feature to provide users the flexibility to add custom attachments to incident reports as per NERC regulations for TSA
+* Developed a .Net Web Service for connecting to Microsoft Exchange 2007 
+* Review test cases (prepared by QA), product documentation guide, installation guide and upgrade guide.
+*(Tools and Technologies: Java, Spring framework, Hibernate, Apache Tomcat, Eclipse, SQLServer, MySQL, Oracle DB, Adobe Flex, Agile Software development practice)*
 
-###### Specialist Developer
-
-###### Customer Support Engineer
+**Customer Support Engineer:**
+* Provided functional & technical support for NERC CIP, SOX audit compliance, IT OT convergence and Access & Identity management to US Utility companies (FPL, Duke Energy, NIPSCO, SRP, CPS Energy, ITC) that use Alert Enterprise’s (a subsidiary of Start Up Farms) Identity and Access Management solutions for Critical Infrastructure protection. 
+* Provided technical support and configuration change management to customer & onsite teams.
+* Work with business and technical teams in order to get customer requirements tailored into Alert Enterprise solutions.
+* Schedule, manage and lead the delivery and deployment of numerous latest releases, support packs and hot fixes for a number of clients
+* Closely worked with onsite implementation team/professional services in resolving issues while installation, configuration, and deployment of Alert's IAM solution at customer site.
+* 24*7 Support on Identity and Access Management issues to global Alert Enterprise's Customers.
+* Train customers and partners on Alert products via workshops, presentations, and KT sessions.
+* Responsible for Training and developing talent in the support team
+*(Tools and Technologies: Java, Apache Tomcat, IBM Websphere, JBOSS, Software Installation and deployment)*
 
 ### Infosys   
 <small>July 2009 - Feb 2011</small>
 <small>Chandigarh, India</small>
 
-###### Systems Engineer
+**Systems Engineer:**
+* **Training at Infosys:** Extensive training in OOPS, UNIX, Software Engineering, Networks, RDBMS, .Net which covered HTML, CSS, XML, JavaScript, C#, ADO.Net, ASP.Net and basic SOA.
+o Specialized training in Business Intelligence tools such as SSIS, SSAS, SSRS and Ab Initio along with a project on Infy Tv.
+
+* **Project – 1: Travel website development: To make a travel website similar to makemytrip.com**
+o Analyzed project requirements and created specifications documents
+o Designed and developed front-end UI, database structure, and business layer.
+o Performed Unit testing
+*(Tools and Technologies: ASP.Net, ADO.Net, SQL Server 2008, C#, VSS, Ajax)*
+
+* **Project – 2: Database Migration Assessment**
+Skyes wanted to upgrade all its databases from Oracle 9i to SQL Server 2008. We analyzed the impact of migration on database, the total cost of migration, HR requirements, timelines etc to give the client an overview about how the migration will be carried out. SSMA was used to generate the reports of all the 60 databases and then a comprehensive analysis was done and assessment sheets of individual databases and the overall system were delivered to Sykes.
+o Developed database migration assessment reports
+*(Tools and Technologies:  SSMA (Sql Server Migration Assistant) for Oracle, SQL Server 2008, Oracle 9i, .Net Architecture and Microsoft Excel 2007.)*
+
+* **Project – 3: Oracle Consolidation Assessment & Migration**
+Project Overview: Capital Group of Companies (CGC) wanted to upgrade all its servers from HP to Sun Solaris to cut the cost on the legacy systems and improve quality. We analyzed the impact of migration on servers, databases, applications and migrated the legacy systems to open source Sun Solaris.
+o Developed a .Net program to analyze data and generate server, database, application reports
+o Mentored team members; participated in peer reviews
+*(Tools and Technologies: Oracle 11g, Sun Solaris Platform- Unix)*
 
 
-
-
-
-<small>A small element</small>
-
-[A link](https://david.darn.es "A link")
-
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
-
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
-
-* An item
-* An item
-* An item
-* An item
-* An item
-
-1. Item one
-2. Item two
-3. Item three
-4. Item four
-5. Item five
-
-> A simple blockquote
-
-Some HTML...
-
-``` html
-<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
-  <p>You planning a vacation, Mr. Sullivan?</p>
-  <footer>
-    <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
-  </footer>
-</blockquote>
-```
-
-...CSS...
-
-``` css
-blockquote {
-  text-align: center;
-  font-weight: bold;
-}
-blockquote footer {
-  font-size: .8rem;
-}
-```
-
-...and JavaScript
-
-``` js
-const blockquote = document.querySelector("blockquote")
-const bolden = (keyString, string) =>
-  string.replace(new RegExp(keyString, 'g'), '<strong>'+keyString+'</strong>')
-
-blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
-```
-
-`Single line of code`
 
 ## HTML Includes
 

@@ -2,14 +2,14 @@
 feature_text: |
   ## Jassimran Kaur
   MS (Computer Science)  @ Georgia Institute of Technology  
-  Software Engineer @ IBM Research
+  Staff Research Engineer @ IBM Research
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Strong engineering professional with a Master’s Degree focused on Computer Science from Georgia Institute of Technology. Experienced Machine Learning Engineer with a demonstrated history of working in the Identity & Access Management (IAM), software deployments and services industry. Skilled in Machine Learning, Deep Learning, Python, Java, and MEAN Stack"
+excerpt: "Strong engineering professional with a Master’s Degree focused on Computer Science from Georgia Institute of Technology. Experienced Machine Learning Engineer with a demonstrated history of building enterprise applications and tools, managing excellent client relationships, Handling software deployments and training customers. Skilled in Machine Learning, Deep Learning, Python, Java, and MEAN Stack"
 ---
 
-Strong engineering professional with a Master’s Degree focused on Computer Science from Georgia Institute of Technology. Experienced Machine Learning Engineer with a demonstrated history of working in the Identity & Access Management (IAM), software deployments and services industry. Skilled in Machine Learning, Deep Learning, Python, Java, and MEAN Stack
+Strong engineering professional with a Master’s Degree focused on Computer Science from Georgia Institute of Technology. Experienced Machine Learning Engineer with a demonstrated history of building enterprise applications and tools, managing excellent client relationships, Handling software deployments and training customers. Skilled in Machine Learning, Deep Learning, Python, Java, and MEAN Stack
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/jassimran" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/jassimran/" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
+{% include button.html text="Github" icon="github" link="https://github.com/jassimran" color="#0366d6" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/jassimran/" color="#0d94e7" %} {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/jassimrank/" %}
 
 <!-- ## Features
 
