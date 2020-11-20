@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  Code snippets in a blog post
+title:  How can we make the content on YouTube safer?
 categories: [HTML,Code]
 ---
 
-This post demonstrate the use of code snippets in the theme. The code snippets are powered by [Pygments](http://pygments.org/) and the code theme that is been used in Reverie is called [Draula](https://draculatheme.com/).
+How can we make the content on YouTube safer?
 
-This is a raw snippet:
-
-```
+<!-- ```
 hello world
 123
 This is a text snippet
@@ -20,9 +18,9 @@ This is a PHP snippet:
 <?php
     echo 'Hello, World!';
 ?>
-```
+``` -->
 
-This is a JavaScript snippet:
+<!-- This is a JavaScript snippet:
 
 ```js
 const add = (a, b) => a + b
@@ -39,4 +37,4 @@ def say_hello():
     print("hello world!")
 
 say_hello()   // "hello world!"
-```
+``` -->
