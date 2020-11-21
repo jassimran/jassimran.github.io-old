@@ -9,13 +9,17 @@ aside: true
 
 ##### BroadBandTV (BBTV)
 <small>_Vancouver, British Columbia, Canada_</small>
+
 <small>_March 2020 - present_</small>
 
 ###### **Senior Research Engineer:** 
-* **VISO PRISM​**: Currently leading _Inappropriate content detection_ - Toxicity, Violence, Spam detection, Minsinformation detection, Pornograhic content, Dangerous and graphic content, and etc in Youtube as per BBTV Trust and Safety policy for enhanced Brand Safety using multi-modal youtube data and meta-data as input. 
+<small>
+* **Viso Prism**: Currently leading _Inappropriate content detection_ - Toxicity, Violence, Spam detection, Minsinformation detection, Pornograhic content, Dangerous and graphic content, and etc in Youtube as per BBTV Trust and Safety policy for enhanced Brand Safety using multi-modal youtube data and meta-data as input. 
 * **VISO Spotlight​**: Led the Research team to improve search of relevant content for Ad Sales and Content Discovery Team by generating summaries of videos using keyword extraction, named entity recognition, emotion and topic modelling on audience comments and summarization algorithms from youtube video meta like Title, Description, transcripts, and comments.
 * **VISO Score**: Build DL based system to provide a unique ranking score to each youtube video based on brand safety, performance metrics and perceived sentiment of viewers. Trained and put into production Sentiment analysis models on noisy youtube video comments, models for offensive content detection in youtube videos and ML models on metadata statistics to give youtube videos a performance metric score. 
+
 **_(T​ools:​ Python, PyTorch, Spacy, Transformers, NLTK, Flair, Vader, AllenNLP, scikit-learn, NER-D, PKE toolkit, Wandb, SimpleTransformers, AWS Cloud Training)_**
+</small>
 
 ##### IBM Research
 <small>Bengaluru, Karnataka, India</small>
