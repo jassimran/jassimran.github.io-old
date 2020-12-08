@@ -4,12 +4,12 @@ title:  How can we make the content on YouTube safer?
 categories: [HTML,Code]
 ---
 
-How can we make the content on YouTube safer?
 
-```
-This poster was accepted at [WiML workshop](https://wimlworkshop.org/neurips2020/program/) at NeurIPS 2020. The poster can be viewed at -[here](https://drive.google.com/file/d/1Clrz-LOJhE23lLCvzTZgump7UUQKo_hL/view)
 
-```
+
+Abstract titled - How can we make the content on YouTube safer? was accepted at [WiML workshop](https://wimlworkshop.org/neurips2020/program/) at NeurIPS 2020. The poster can be viewed at -[here](https://drive.google.com/file/d/1Clrz-LOJhE23lLCvzTZgump7UUQKo_hL/view)
+
+
 <!-- 
 This is a PHP snippet:
 
